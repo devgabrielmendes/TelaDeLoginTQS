@@ -7,4 +7,4 @@ No projeto foi utilizado JUnit 5.0 e a IDE Eclipse para o desenvolvimento e test
 
 #Documentação
 
-O projeto foi documentado através do próprio código e também através de um Javadoc.
+O projeto foi documentado através de comentáruios no código e Javadoc.
